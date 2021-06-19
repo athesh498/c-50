@@ -1,0 +1,33 @@
+h1{
+    color: cyan;
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+*{
+    border: solid;
+}
+.aboutMe{
+    text-align: right;
+}
+a{
+    color: white;
+    margin: 10px;
+}
+.name{
+    background-color:brown;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+
+footer{
+    background-color: violet;
+    display: flex;
+    justify-content: flex-end;
+}
